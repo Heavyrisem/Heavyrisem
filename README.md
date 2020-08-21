@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heavyrisem&layout=compact&theme=graywhite)
 
-*Server/Backend Developer*
+*Web Frontend/Backend Developer*
