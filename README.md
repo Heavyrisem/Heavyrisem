@@ -2,12 +2,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heavyrisem&layout=compact&theme=graywhite" />
 
+I'm Insu, a backend developer who likes Nodejs.
 
-# BackEnd Developer
+
+# I'm BackEnd Developer
 - I like to develop into Node.js which is my favorite language.
 - I also like Typescript
 
-# Interest
+## Interest
 - Server Operations & Deployment (Nginx, GCP, etc..)
 - HTML/CSS
 - Typescript
