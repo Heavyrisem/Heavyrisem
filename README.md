@@ -15,3 +15,4 @@ I'm Insu, a backend developer who likes Nodejs.
 - Typescript
 - Deno
 - Swift
+- Python
