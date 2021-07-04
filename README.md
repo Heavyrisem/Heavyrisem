@@ -5,7 +5,7 @@
 I'm Insu, a backend developer who likes Nodejs.
 
 
-# I'm BackEnd Developer
+# I'm Web Developer
 - I like to develop into Node.js which is my favorite language.
 - I also like Typescript
 
