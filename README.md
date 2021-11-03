@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heavyrisem&layout=compact&theme=graywhite&hide=Jupyter%20Notebook" />
 
-I'm Insu, a backend developer who likes Nodejs.
+I'm Insu, a front-end developer who likes Nodejs.
 
 
 # I'm Web Developer
